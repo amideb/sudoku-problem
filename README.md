@@ -1,8 +1,8 @@
 # sudoku-app
 
 
-Enter your sudoku problem here 
-\\ Format (9x9) 
+Enter your sudoku problem here <br />
+Format (9x9) <br />
  3 0 6 5 0 8 4 0 0 
  5 2 0 0 0 0 0 0 0 
  0 8 7 0 0 0 0 3 1 
