@@ -1,4 +1,6 @@
-# Output and TestCase
+Used algorithm : Backtracking algorithm <br />
+
+# Output and TestCase <br />
 
 
 Enter your sudoku problem here <br />
